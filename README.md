@@ -3,7 +3,7 @@ I'm currently working on learning java through some exciting projects.<br>I'm cu
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Sarvesh Singh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-singh-1a22b0213) 
 
 [![LeetCode]](https://leetcode.com/u/fragment_dev)
 
