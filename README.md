@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently working on learning java through some exciting projects.<br>I'm currently learning java<br>Seasoned Developer with Scala-Spark-Playframework
-
+Working with Spark-Scala-Play
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarvesh-singh-1a22b0213) 
